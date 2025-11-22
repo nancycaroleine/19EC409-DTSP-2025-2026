@@ -2,7 +2,7 @@
 
 # AIM: 
 
-# To analyse an audio signal and remove noise
+To analyse an audio signal and remove noise
 
 # APPARATUS REQUIRED:  
 PC installed with SCILAB. 
